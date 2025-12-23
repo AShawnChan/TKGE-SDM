@@ -4,7 +4,7 @@ This is the official code release of the following paper:
 
 Hong Yao, Zhenglong Chen, Diange Zhou and Shengwen Li: Framework for Species Spatiotemporal Evolution Prediction Based on the Fusion of Temporal Knowledge Graph Embedding and Historical Migration Semantics
 
-<img src="https://github.com/AShawnChan/TKGE-SDM/TKGE-SDM.jpg" alt="regcn_architecture" width="700" class="center">
+<img src="https://github.com/AShawnChan/TKGE-SDM/blob/main/TKGE-SDM.jpg" alt="regcn_architecture" width="700" class="center">
 
 ## Quick Start
 
